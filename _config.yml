@@ -10,15 +10,19 @@ title:
   en: Game Zero 😺 - An open source handheld retrogaming machine!
   es: Game Zero 😺 - Consola portatil Retropie de código abierto!
   ca: Game Zero 😺 - Consola portàtil Retropie de codi obert!
+baretitle:
+  en: Game Zero 😺
+  es: Game Zero 😺
+  ca: Game Zero 😺
 email: hello@piwae.com
 description:
   en: The <b>Game Zero (Cat)</b> project is published under the <b>Creative Commons Attribution and Share Alike license</b> because we believe in the open development.
   es: El proyecto <b>Game Zero (Cat)</b> esta publica bajo <b>licencia Creative Commons Atribución y Compartir Igual</b> porque creemos en el desarrollo abierto.
   ca: El projecte <b>Game Zero (Cat)</b> està publicat sota <b>llicència Creative Commons Atribució i Compartir Igual</b> perquè creiem en el desenvolupament obert.
 index:
-  en: index.md
-  es: index-es.md
-  ca: index-ca.md
+  en: 
+  es: inicio
+  ca: inici
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.gamezerocat.cat" # the base hostname & protocol for your site
 github_username:  GameZeroCat
