@@ -7,22 +7,22 @@
 
 # Site settings
 title:
-  en: Game Zero 😺
-  es: Game Zero 😺
-  ca: Game Zero 😺
-email: your-email@domain.com
+  en: Game Zero 😺 - An open source handheld retrogaming machine!
+  es: Game Zero 😺 - Consola portatil Retropie de código abierto!
+  ca: Game Zero 😺 - Consola portàtil Retropie de codi obert!
+email: hello@piwae.com
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  es: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
-  ca: More soon
+  en: The <b>Game Zero (Cat)</b> project is published under the <b>Creative Commons Attribution and Share Alike license</b> because we believe in the open development.
+  es: El proyecto <b>Game Zero (Cat)</b> esta publica bajo <b>licencia Creative Commons Atribución y Compartir Igual</b> porque creemos en el desarrollo abierto.
+  ca: El projecte <b>Game Zero (Cat)</b> està publicat sota <b>llicència Creative Commons Atribució i Compartir Igual</b> perquè creiem en el desenvolupament obert.
 index:
-  en:
-  es: indice.html
-  ca: accueil.html
+  en: index.md
+  es: index-es.md
+  ca: index-ca.md
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://gamezerocat.github.io" # the base hostname & protocol for your site
+url: "https://www.gamezerocat.cat" # the base hostname & protocol for your site
+github_username:  GameZeroCat
 twitter_username: jrodrigotech
-github_username:  jrodrigotech
 
 # Build settings
 markdown: kramdown

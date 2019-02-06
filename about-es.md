@@ -1,11 +1,12 @@
 ---
 layout: page
-title: À propos
+title: Sobre Nosotros
+permalink: /sobre-nosotros/
 ref: about
-lang: fr
+lang: es
 ---
 
-Ceci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
+ESPACeci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
 
 Vous pouvez trouver ce thème multilingue sur :
 {% include icon-github.html username="sylvaindurand" %} /

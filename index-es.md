@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /inicio/
 ref: index
 lang: es
 ---
