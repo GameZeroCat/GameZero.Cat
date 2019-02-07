@@ -11,7 +11,7 @@ lang: es
   <h1 class="page-heading">Articles</h1>
 
   <ul class="post-list">
-    {% assign posts=site.wiki | where:"lang", page.lang %}
+    {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in site.categories['wiki'] %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
